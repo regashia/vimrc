@@ -1,3 +1,5 @@
+autocmd VimEnter * iunmap <space>p
+
 let g:EditorConfig_exclude_patterns = ['~/.vim_runtime/vimrcs/*']
 
 " Git gutter delay
