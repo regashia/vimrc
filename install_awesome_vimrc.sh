@@ -25,5 +25,6 @@ function install_plugin() {
 cd my_plugins
 
 install_plugin "editorconfig/editorconfig-vim"
+install_plugin "easymotion/vim-easymotion"
 
 echo "Installed the Ultimate Vim configuration successfully! Enjoy :-)"
